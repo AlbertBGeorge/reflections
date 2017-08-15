@@ -1,1 +1,4 @@
 This is the third txt file on the Github platform
+
+When would you want to use a remote repository rather than keeping all your work local?
+  When I want to work in multiple computers and multiple projects simultaneously at random locations.
